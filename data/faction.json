@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "EMS",
+    "description": "Emergency Medical Services",
+    "chief": "EMS Chief Name",
+    "emoji": "🚑",
+    "LogoURL": "https://cdn.discordapp.com/attachments/1252596933910859806/1254067723059728455/medical-care-vector-icon.png?ex=66782514&is=6676d394&hm=583ff24f8016cdd758cdd249d2fbbafbd45cbd834d8658099fcada7b108bb495&"
+  },
+  {
+    "id": "2",
+    "name": "Police Department",
+    "description": "Law Enforcement",
+    "chief": "Police Chief Name",
+    "emoji": "👮",
+    "LogoURL": "https://cdn.discordapp.com/attachments/1252596933910859806/1254067722770317352/360_F_337947345_Bcd5UJwMgejs4Q0Ls2OgIL0IjJtMlXjm.png?ex=66782514&is=6676d394&hm=9091dee29a37e5b5d8f70f16c51d24c0530132ef80376fbeaaa6a226d50ec903&"
+  },
+  {
+    "id": "3",
+    "name": "Terrorists",
+    "description": "Criminal Organization",
+    "chief": "Terrorist Leader Name",
+    "emoji": "💣",
+    "LogoURL": "https://cdn.discordapp.com/attachments/1252596933910859806/1254067723361587271/dark-terrorist-LogoURL-isolated-on-260nw-566610034.png?ex=66782514&is=6676d394&hm=ae7d45c4982c9874774ff9f1abd05f72cab1958601965dd12942bc5c00eb56de&"
+  },
+  {
+    "id": "4",
+    "name": "News",
+    "description": "Media Organization",
+    "chief": "News Chief Name",
+    "emoji": "🎥",
+    "LogoURL": "https://cdn.discordapp.com/attachments/1252596933910859806/1254067777417904261/images.png?ex=66782521&is=6676d3a1&hm=e2aa1a05977693ac458d83e0687d1dedbcc0d5c32dbbf997e8da5d2940328a2c&"
+  },
+  {
+    "id": "5",
+    "name": "Mech",
+    "description": "Mechanical Engineers",
+    "chief": "Mech Chief Name",
+    "emoji": "🔧",
+    "LogoURL": "https://cdn.discordapp.com/attachments/1252596933910859806/1254067723743400066/360_F_292531541_8t6gplsraim2A67wbtPI4Scz2wy1SnwQ.png?ex=66782514&is=6676d394&hm=be65d24640d967cd4f8d2954df69f9fcdd919a429c329e0973aa115bb8307439&"
+  },
+  {
+    "id": "7",
+    "name": "Army",
+    "description": "MIlateryarmy",
+    "chief": "seban",
+    "emoji": "🤔",
+    "logoURL": "https://cdn.discordapp.com/attachments/1252596933910859806/1254067724049449022/military-army-logo-template-design-vector_20029-826.png?ex=66782514&is=6676d394&hm=873d240128c312e6d08028a20b90f21d7a597e909ff2f8bc9e48d574828719a6&"
+  }
+]
